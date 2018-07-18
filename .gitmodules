@@ -19,3 +19,6 @@
 [submodule "clang-6"]
 	path = clang-6.0
 	url = git@github.com:cnarf/clang-6.0.git
+[submodule "stretch"]
+	path = stretch
+	url = git@github.com:cnarf/stretch.git
