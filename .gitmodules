@@ -1,0 +1,21 @@
+[submodule "buster"]
+	path = buster
+	url = git@github.com:cnarf/buster.git
+[submodule "clang-6.0"]
+  path = clang-6.0
+  url = git@github.com:cnarf/clang-6.0.git
+[submodule "dash"]
+	path = dash
+	url = git@github.com:cnarf/dash.git
+[submodule "graal"]
+	path = graal
+	url = git@github.com:cnarf/graal.git
+[submodule "gxx-8"]
+	path = gxx-8
+	url = git@github.com:cnarf/gxx-8.git
+[submodule "paul"]
+	path = paul
+	url = git@github.com:cnarf/paul.git
+[submodule "clang-6"]
+	path = clang-6.0
+	url = git@github.com:cnarf/clang-6.0.git
