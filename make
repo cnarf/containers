@@ -1,6 +1,6 @@
 #! /usr/bin/env sh
 
-MAKE="/usr/bin/make --no-builtin-rules --no-builtin-variables"
+MAKE=/usr/bin/make
 
 
-exec ${MAKE} $@
+exec ${MAKE} --no-builtin-rules --no-builtin-variables $@
